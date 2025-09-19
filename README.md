@@ -1,6 +1,5 @@
 # Go Todo API 后端服务
 
-**中文 | English**
 
 ------
 
