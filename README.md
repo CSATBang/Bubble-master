@@ -53,7 +53,7 @@
 若不想看有项目结构的版本，可以下载单文件版本也就是目录里的main_QWQ.go
 
 ```text
-go-todo-api/
+Bubble-master/
 ├── main.go          # 应用入口
 ├── main_QWQ.go      #单文件版本
 ├── database/        # 数据库配置
