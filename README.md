@@ -23,7 +23,7 @@
 
 ## 🔗 关联项目
 
-- **前端项目**:来自B站Qimi老师的**[Bubble](https://github.com/Q1mi/bubble_frontend)**
+- **前端项目**:来自B站Qimi老师的[Bubble](https://github.com/Q1mi/bubble_frontend)
 - **前端技术栈**: Vue/React + TypeScript + Element UI
 - **项目功能**: 现代化的待办事项管理界面
 
