@@ -49,7 +49,7 @@ func (t *Todo) ToResponse() TodoResponse {
 func ConnectDB() error {
 	var err error
 	// DSN (Data Source Name) 格式: [username[:password]@][protocol[(address)]]/dbname[?param1=value1&...&paramN=valueN]
-	dsn := "root:C20021123c@tcp(127.0.0.1:3306)/bubble?charset=utf8mb4&parseTime=True&loc=Local"
+	dsn := "root:xxxxxxx@tcp(127.0.0.1:3306)/bubble?charset=utf8mb4&parseTime=True&loc=Local"
 	DB, err = gorm.Open(mysql.Open(dsn), &gorm.Config{})
 	if err != nil {
 		return fmt.Errorf("failed to connect databases:%w", err)
